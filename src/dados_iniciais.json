@@ -1,0 +1,137 @@
+{
+  "categorias": [
+    {
+      "titulo": "Mitologuia - Guilherme Analisa",
+      "link": "https://www.youtube.com/playlist?list=PLCsJr6zArXK3RzBIqikeMglv4oGtwe4sV",
+      "cor": "--secondary",
+      "link_extra": {
+        "text": "Mitologia Grega",
+        "url": "https://www.youtube.com/playlist?list=PLCsJr6zArXK3RzBIqikeMglv4oGtwe4sV"
+      },
+      "videos": [
+        {
+          "titulo": "01. A Origem dos Deuses - MITOLOGIA GREGA",
+          "url": "https://youtu.be/jM6sT6iL9S4?list=PLCsJr6zArXK3RzBIqikeMglv4oGtwe4sV"
+        },
+        {
+          "titulo": "02. A Guerra dos Titãs",
+          "url": "https://youtu.be/PsE4HMJcNYI?list=PLCsJr6zArXK3RzBIqikeMglv4oGtwe4sV"
+        },
+        {
+          "titulo": "03. O Nascimento de Atena",
+          "url": "https://youtu.be/rBB83W8TBg8?list=PLCsJr6zArXK3RzBIqikeMglv4oGtwe4sV"
+        },
+        {
+          "titulo": "04. O Plano Secreto de Gaia",
+          "url": "https://youtu.be/bPdLrOTiqgQ?list=PLCsJr6zArXK3RzBIqikeMglv4oGtwe4sV"
+        },
+        {
+          "titulo": "05. Hades e Perséfone",
+          "url": "https://youtu.be/sDpijTcGiOs?list=PLCsJr6zArXK3RzBIqikeMglv4oGtwe4sV"
+        },
+        {
+          "titulo": "06. O Verdadeiro Vilão da MITOLOGIA GREGA",
+          "url": "https://youtu.be/8ZwSLona-bI?list=PLCsJr6zArXK3RzBIqikeMglv4oGtwe4sV"
+        },
+        {
+          "titulo": "07. A Caixa de Pandora",
+          "url": "https://youtu.be/THjEgZuJdtU?list=PLCsJr6zArXK3RzBIqikeMglv4oGtwe4sV"
+        },
+        {
+          "titulo": "08. Os Deus Mais Ridículos da MITOLOGIA GREGA",
+          "url": "https://youtu.be/UW_gxcr703I?list=PLCsJr6zArXK3RzBIqikeMglv4oGtwe4sV"
+        },
+        {
+          "titulo": "09. A História de Poseidon",
+          "url": "https://youtu.be/syZUHxaBSV4?list=PLCsJr6zArXK3RzBIqikeMglv4oGtwe4sV"
+        },
+        {
+          "titulo": "10. A Tragédia de Medusa",
+          "url": "https://youtu.be/uSxqszGHMxM?list=PLCsJr6zArXK3RzBIqikeMglv4oGtwe4sV"
+        },
+        {
+          "titulo": "11. Esclarecimentos Sobre A MITOLOGIA GREGA",
+          "url": "https://youtu.be/tFv2XFWdI-0?list=PLCsJr6zArXK3RzBIqikeMglv4oGtwe4sV"
+        },
+        {
+          "titulo": "12. O Mito de Pégaso",
+          "url": "https://youtu.be/6ZyqNml3ROs?list=PLCsJr6zArXK3RzBIqikeMglv4oGtwe4sV"
+        },
+        {
+          "titulo": "13. O Castigo de Sísifo",
+          "url": "https://youtu.be/CiAoGTcJYL4?list=PLCsJr6zArXK3RzBIqikeMglv4oGtwe4sV"
+        },
+        {
+          "titulo": "14. A Traição de Afrodite",
+          "url": "https://youtu.be/avbvkIXam5o?list=PLCsJr6zArXK3RzBIqikeMglv4oGtwe4sV"
+        },
+        {
+          "titulo": "15. A Maldição de Midas",
+          "url": "https://youtu.be/ZuBXVDPZod0?list=PLCsJr6zArXK3RzBIqikeMglv4oGtwe4sV"
+        },
+        {
+          "titulo": "16. A Profecia de Édipo",
+          "url": "https://youtu.be/M36F9LEkS-A?list=PLCsJr6zArXK3RzBIqikeMglv4oGtwe4sV"
+        },
+        {
+          "titulo": "17. O Mito de Narciso",
+          "url": "https://youtu.be/IVPzqOMYuiU?list=PLCsJr6zArXK3RzBIqikeMglv4oGtwe4sV"
+        },
+        {
+          "titulo": "Especial: RELIGIÃO CRISTÃ X MITOLOGIA GREGA",
+          "url": "https://youtu.be/oGyYW661AYg?list=PLCsJr6zArXK3RzBIqikeMglv4oGtwe4sV"
+        },
+        {
+          "titulo": "Extras: ERROS DE GRAVAÇÃO",
+          "url": "https://youtu.be/t9QrB66mK1I?list=PLCsJr6zArXK3RzBIqikeMglv4oGtwe4sV"
+        }
+      ]
+    },
+    {
+      "titulo": "Mitologia Egípcia",
+      "cor": "--secondary",
+      "link_extra": {
+        "text": "Foca Na História",
+        "url": "https://youtube.com/channel/UCI5WkIKM1kPDKUR9g2ImnKQ"
+      },
+      "videos": [
+        {
+          "titulo": "Mitologia Egípcia: A Criação do Universo (Segundo o Deus Rá) Ep.01",
+          "url": "https://youtu.be/2ICodnZeMBk"
+        },
+        {
+          "titulo": "Osíris e Set: A Queda do Deus Supremo - Mitologia Egípcia Ep.02",
+          "url": "https://youtu.be/mjFTFCMV0dg"
+        },
+        {
+          "titulo": "Hórus e Set: A Disputa pelo Trono Supremo - Mitologia Egípcia Ep.03",
+          "url": "https://youtu.be/CNHvbl7IlIY"
+        },
+        {
+          "titulo": "Rá e o Barco Solar - Mitologia Egípcia Ep. 04",
+          "url": "https://youtu.be/aKzh73AxONA"
+        },
+        {
+          "titulo": "Bastet a Deusa dos Gato da Mitologia Egípcia Ep.05",
+          "url": "https://youtu.be/C5OYe7c23iQ"
+        },
+        {
+          "titulo": "Toth(Tot) O Deus Egípcio do Conhecimento - Mitologia Egípcia Ep.06",
+          "url": "https://youtu.be/ca-jhoxGWSU"
+        },
+        {
+          "titulo": "Apófis: A Terrível Serpente Inimiga de Rá - Mitologia Egípcia Ep.07",
+          "url": "https://youtu.be/BvXDyrgwJPU"
+        },
+        {
+          "titulo": "Sekhmet: A Deusa da Vingança (A Deusa Leoa) - Mitologia Egípcia Ep.08",
+          "url": "https://youtu.be/EyYpqoRHJ9w"
+        },
+        {
+          "titulo": "Seth: O Deus do Caos, dos Desertos e da Infertilidade - Mitologia Egípcia Ep.09",
+          "url": "https://youtu.be/H906VkzR3Jg"
+        }
+      ]
+    }
+  ]
+}

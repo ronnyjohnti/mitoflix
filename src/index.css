@@ -1,0 +1,42 @@
+* {
+  box-sizing: border-box;
+  font-family: 'Roboto', sans-serif;
+}
+
+:root {
+  --primary: #00D119;
+  --secondary: #ee1010;
+  /*--primary: #0BD100;*/
+  --black: #000000;
+  --blackLighter: #9E9E9E;
+  --grayLight: #F5F5F5;
+  --grayMedium: #e5e5e5;
+  --grayStrong: #101010;
+  --white: #FFFFFF;
+  --frontEnd: #6BD1FF;
+  --backEnd: #00C86F;
+}
+
+/* Barra de rolagem */
+::-webkit-scrollbar {
+  width: 2px;
+  border-radius: 1px;
+  height: 5px;
+}
+::-webkit-scrollbar-thumb {
+  background-color: var(--secondary);
+}
+::-webkit-scrollbar-track {
+  background-color: var(--primary);
+}
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+  background: var(--grayStrong);
+}
+
+a {
+  color: inherit;
+} 
