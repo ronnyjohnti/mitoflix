@@ -1,0 +1,24 @@
+#right {
+  animation: arrowRightAnimation .5s linear infinite;
+}
+#left {
+  animation: arrowLeftAnimation .5s linear infinite;
+}
+
+@keyframes arrowRightAnimation {
+  0% {
+    background-image: url("../../../../assets/img/arrowRight1.png"), linear-gradient(to right, transparent, black);
+  }
+  100% {
+    background-image: url("../../../../assets/img/arrowRight2.png"), linear-gradient(to right, transparent, black);
+  }
+}
+
+@keyframes arrowLeftAnimation {
+  0% {
+    background-image: url("../../../../assets/img/arrowLeft1.png"), linear-gradient(to left, transparent, black);
+  }
+  100% {
+    background-image: url("../../../../assets/img/arrowLeft2.png"), linear-gradient(to left, transparent, black);
+  }
+}

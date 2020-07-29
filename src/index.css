@@ -6,7 +6,6 @@
 :root {
   --primary: #00D119;
   --secondary: #ee1010;
-  /*--primary: #0BD100;*/
   --black: #000000;
   --blackLighter: #9E9E9E;
   --grayLight: #F5F5F5;
@@ -15,6 +14,7 @@
   --white: #FFFFFF;
   --frontEnd: #6BD1FF;
   --backEnd: #00C86F;
+  --sliderHeight: 250px;
 }
 
 /* Barra de rolagem */
@@ -39,4 +39,15 @@ body {
 
 a {
   color: inherit;
-} 
+}
+
+#root {
+  min-height: calc(100vh - var(--bodyPaddingTop));
+  display: flex;
+  flex-direction: column;
+}
+
+.overflow-0::-webkit-scrollbar {
+  width: 0px;
+  height: 0px;
+}

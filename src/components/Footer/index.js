@@ -14,6 +14,14 @@ function Footer() {
           Imersão React da Alura
         </a>
       </p>
+
+      <p>
+        Feito por
+        {' '}
+        <a href="https://www.linkedin.com/in/ronny-john-590446176/">
+          Ronny John
+        </a>
+      </p>
     </FooterBase>
   );
 }

@@ -1,7 +1,7 @@
 import styled from 'styled-components';
 
 export const VideoCardContainer = styled.a`
-  border: 2px solid;
+  border: 2px solid var(--secondary);
   border-radius: 4px;
   text-decoration: none;
   overflow: hidden;
@@ -17,15 +17,46 @@ export const VideoCardContainer = styled.a`
   position: relative;
   display: flex;
   align-items: flex-end;
-  padding: 16px;
 
-  transition: opacity .3s;
+  transition: 1s;
   &:hover,
   &:focus {
-    opacity: .5;
+    z-index: 50;
+    flex: 0 0 360px;
+    width: 360px;
+    height: 240px;
+    animation: Preview 7s 5s ease infinite;
+    box-shadow: 0 0 5px var(--white);
+    border-color: var(--primary);
   }
   
   &:not(:first-child) {
-    margin-left: 20px;
+    margin-right: 20px;
+  }
+
+  & {
+    @keyframes Preview {
+      0% {
+        background-image: ${({ previews }) => `url(${previews[0]})`};
+      }
+      17% {
+        background-image: ${({ previews }) => `url(${previews[0]})`};
+      }
+      33% {
+        background-image: ${({ previews }) => `url(${previews[0]})`};
+      }
+      50% {
+        background-image: ${({ previews }) => `url(${previews[1]})`};
+      }
+      67% {
+        background-image: ${({ previews }) => `url(${previews[1]})`};
+      }
+      84% {
+        background-image: ${({ previews }) => `url(${previews[2]})`};
+      }
+      100% {
+        background-image: ${({ previews }) => `url(${previews[2]})`};
+      }
+    }
   }
 `;
