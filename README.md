@@ -1,6 +1,6 @@
 # Mitoflix
 
-<img src="https://raw.githubusercontent.com/ronnyjohnti/mediahub/main/mitoflix-index.png">
+<img src="https://raw.githubusercontent.com/ronnyjohnti/ronnyjohnti/main/mediahub/mitoflix-index.png">
 
 A project developed during the Alura's ReactJS Immersion.
 
